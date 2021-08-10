@@ -14,6 +14,10 @@ http://insideairbnb.com/index.html
 
 This project follows the guide line of CRISP-DM (Cross-industry standard process for data mining). The details of this process can be found via this Wikipedia link: https://en.wikipedia.org/wiki/Cross-industry_standard_process_for_data_mining
 
+
+[My blog post is HERE](https://lululastudio.com/data)
+
+
 ## Python Libraris that I used in this analysis
 
 * numpy 
