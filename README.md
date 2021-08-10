@@ -3,16 +3,7 @@
 
 ## Project Motivation 
 
-This blog post is the first project of Udacity Data Scientists Nanodegree Program. 
-
-In this project, I used Seattle Air BNB open data set, the dataset was downloaded via link https://www.kaggle.com/airbnb/seattle/data
-
-In case you are interested in AirBnB data of other popular cities around the world, go to the following page 
-
-http://insideairbnb.com/index.html
-
-
-This project follows the guide line of CRISP-DM (Cross-industry standard process for data mining). The details of this process can be found via this Wikipedia link: https://en.wikipedia.org/wiki/Cross-industry_standard_process_for_data_mining
+This blog post is the first project of Udacity Data Scientists Nanodegree Program. The goal of this porject is to demonstrate good understanding of CRISP-DM (Cross-industry standard process for data mining
 
 
 [My blog post is HERE](https://lululastudio.com/data)
@@ -50,6 +41,7 @@ This project follows the guide line of CRISP-DM (Cross-industry standard process
  - Industrial District :173.333333
  - Alki: 171.62 
 
+
 ##### 2. Is there any seasonal fluctuation of listing prices? For example, the summer months and high seasons such as end of year around Christmas and new year.
 
    Answer: Yes, the listing prices are higher during summer vacation season.
@@ -57,3 +49,15 @@ This project follows the guide line of CRISP-DM (Cross-industry standard process
 ##### 3. What are the factors/features that significantly influence the price of the listings?
 
    Answer: Yes!  As we can see from the Correlation matrix and feature impertinence, number of bedrooms, accommodates and number of bathrooms are good predictor of the listing price
+
+## Acknowledgements 
+
+In this project, I used Seattle Air BNB open data set, the dataset was downloaded via [kaggle](https://www.kaggle.com/airbnb/seattle/data).
+
+In case you are interested in AirBnB data of other popular cities around the world, go to the following [AirBnB Open Data](http://insideairbnb.com/index.html)
+
+This project follows the guide line of CRISP-DM, details of this process can be found via [WIKI](https://en.wikipedia.org/wiki/Cross-industry_standard_process_for_data_mining)
+
+
+
+
